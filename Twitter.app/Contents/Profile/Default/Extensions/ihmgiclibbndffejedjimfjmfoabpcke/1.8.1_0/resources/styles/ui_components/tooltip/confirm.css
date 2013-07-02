@@ -1,0 +1,77 @@
+.conf-tooltip-wrap {
+  background: rgba(43, 43, 43, 0.725);
+  padding: 15px;
+  border: 1px solid rgb(43, 43, 43);
+  box-shadow: 0 0 4px rgba(43, 43, 43, 0.325);
+  border-radius: 4px;
+  min-width: 100px
+}
+
+  .conf-inside-layout {
+
+  }
+
+    .confirmation-headline {
+      margin-bottom: 2px
+    }
+
+      .conf-head {
+        color: #FFF;
+        text-shadow: 0 1px 0 #2b2b2b;
+        font-weight: 700;
+        display: inline-block;
+        position: relative;
+        top: -4px
+      }
+
+    .confirmation-wrap {
+
+    }
+      
+      .conf-text {
+        color: #FFF;
+        text-shadow: 0 1px 0 #2B2B2B
+      }
+
+    .answer-buttons-wrap {
+      margin-top: 10px;
+      text-align: center
+    }
+
+      .answer-button {
+        display: inline-block;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 12px;
+        text-align: center;
+        font-weight: 700;
+        padding: 10px 15px;
+        width: 92px;
+        -webkit-user-select: none
+      }
+
+      .pos-but {
+        text-shadow: -1px 0 0 #276AA3;
+        color: white;
+        background: #3081CC;
+        border: 1px solid #404040;
+        box-shadow: inset 0 1px 1px rgb(101, 169, 220)
+      }
+
+        .pos-but:active {
+          box-shadow: none;
+          background: #2777C1
+        }
+
+      .neg-but {
+        background: #EFEFEF;
+        border: 1px solid #404040;
+        box-shadow: inset 0 1px 0 #F5F5F5;
+        text-shadow: 0 1px 0 white;
+        margin-left: 6px
+      }
+
+        .neg-but:active {
+          box-shadow: none;
+          background: #D9D9D9
+        }

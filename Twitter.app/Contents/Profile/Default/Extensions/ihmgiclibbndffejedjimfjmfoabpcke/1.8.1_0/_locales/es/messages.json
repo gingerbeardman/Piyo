@@ -1,0 +1,359 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "Abreviatura"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "Adjetivo"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "Adverbio"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "Conjunci\u00F3n"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "Exclamaci\u00F3n"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "Sustantivo"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "Frase"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "Preposici\u00F3n"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "Pronombre"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "Verbo"
+   },
+   "History_Content_List_AllLoaded": {
+      "message": "Todos los items han sido cargados."
+   },
+   "History_Content_List_CollapseButton": {
+      "message": "Contraer"
+   },
+   "History_Content_List_DeleteButton": {
+      "message": "Borrar"
+   },
+   "History_Content_List_ExpandButton": {
+      "message": "Expandir"
+   },
+   "History_Content_List_ListenOriginal": {
+      "message": "Escuchar a la original"
+   },
+   "History_Content_List_ListenTranslation": {
+      "message": "Escuche la traducci\u00F3n"
+   },
+   "History_Content_List_Loading": {
+      "message": "Cargando.."
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "El historial esta vac\u00EDo."
+   },
+   "History_Content_List_OnFindFailure": {
+      "message": "No se encontr\u00F3 nada."
+   },
+   "History_Options_Delete": {
+      "message": "Limpiar el historial de traducciones"
+   },
+   "History_Options_Delete_AllHeadline": {
+      "message": "\u00BFEst\u00E1s seguro?"
+   },
+   "History_Options_Delete_AllNeg": {
+      "message": "No"
+   },
+   "History_Options_Delete_AllPos": {
+      "message": "S\u00ED"
+   },
+   "History_Options_Delete_AllProposal": {
+      "message": "\u00BFEst\u00E1s absolutamente seguro de querer borrar el historial de traducciones?"
+   },
+   "Kernel_AppDescription": {
+      "message": "Traducci\u00F3n instant\u00E1nea de un texto seleccionado."
+   },
+   "Kernel_AppName": {
+      "message": "instant translate"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "Historial de traducciones"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "Afrikaans"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "Alban\u00E9s"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "\u00C1rabe"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "Armenio"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "Detecci\u00F3n autom\u00E1tica"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "Azerbaiy\u00E1n"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "Euskera"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "Bielorruso"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "Bengal\u00ED"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "Bulgaro"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "Catal\u00E1n"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "Chino Simplificado"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "Chino Tradiciona"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "Croata"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "Checo"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "Dan\u00E9s"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "Neerland\u00E9s"
+   },
+   "Kernel_Lang_English": {
+      "message": "Ingl\u00E9s"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "Esperanto"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "Estonio"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "Filipino"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "Finland\u00E9s"
+   },
+   "Kernel_Lang_French": {
+      "message": "Franc\u00E9s"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "Gallego"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "Georgiano"
+   },
+   "Kernel_Lang_German": {
+      "message": "Alem\u00E1n"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "Griego"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "Gujarati"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "Creole Haitiano"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "Hebreo"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "Hindi"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "H\u00FAngaro"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "Island\u00E9s"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "Indonesio"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "Irland\u00E9s"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "Italiano"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "Japon\u00E9s"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "Kanada"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "Coreano"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "Lat\u00EDn"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "Let\u00F3n"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "Lituano"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "Macedonio"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "Malayo"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "Malt\u00E9s"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "Noruego"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "Persa"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "Polaco"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "Portugu\u00E9s"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "Rumano"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "Ruso"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "Serbio"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "Eslovaco"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "Esloveno"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "Espa\u00F1ol"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "Suajili"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "Sueco"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "Tamil"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "Telugu"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "Tailand\u00E9s"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "Turco"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "Ucraniano"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "Urdu"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "Vietnamita"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "Gal\u00E9s"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "Yiddish"
+   },
+   "Kernel_Network_Error": {
+      "message": "Error de conexi\u00F3n"
+   },
+   "Kernel_Network_Error_DataLoading": {
+      "message": "No se ha podido cargar los datos debido a posibles problemas con la conexi\u00F3n a Internet."
+   },
+   "Kernel_OptionEnabled": {
+      "message": "Habilitado"
+   },
+   "Kernel_Plaque_TranslateTo": {
+      "message": "Traducir a"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "Configuraci\u00F3n"
+   },
+   "Settings_Interface_AllVariants": {
+      "message": "Todas las variantes"
+   },
+   "Settings_Interface_AllVariants_Description": {
+      "message": "Todas las variantes disponibles de la traducci\u00F3n se muestran."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "Traducci\u00F3n Instant\u00E1ne"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "El texto en el campo de texto es traduccido inmediatamente despu\u00E9s de terminar de escribirlo."
+   },
+   "Settings_Interface_Save": {
+      "message": "Guardar el valor"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "El valor del campo de texto en la ventana emergente se guarda cuando la ventana se cierra."
+   },
+   "Settings_Tabs_Interface": {
+      "message": "Interfaz"
+   },
+   "Settings_Tabs_Translation": {
+      "message": "Traducci\u00F3n"
+   },
+   "Settings_Translation_Context": {
+      "message": "Men\u00FA contextual"
+   },
+   "Settings_Translation_Context_Description": {
+      "message": "Un bot\u00F3n que se agrega al men\u00FA contextual del navegador y que est\u00E1 dise\u00F1ado para facilitar la traducci\u00F3n, cuando no es posible utilizar el teclado."
+   },
+   "Settings_Translation_Context_NewTab": {
+      "message": "Nueva pesta\u00F1a"
+   },
+   "Settings_Translation_Context_OpenDescription": {
+      "message": "\u00BFD\u00F3nde mostrar\u00E1 la traducci\u00F3n despu\u00E9s de hacer click en la opci\u00F3n del men\u00FA contextual?"
+   },
+   "Settings_Translation_Context_Tooltip": {
+      "message": "Cuadro"
+   },
+   "Settings_Translation_History": {
+      "message": "Historial de traducciones"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "Todo lo que se traduce se guarda en la memoria cach\u00E9 local. Dejando a parte la posibilidad de navegar a trav\u00E9s del historial, la traducci\u00F3n del texto, que ya ha sido traducido, se acelera incre\u00EDblemente."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "Combinaciones de Teclas"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "El texto seleccionado se traduce al pulsar la combinaci\u00F3n de teclas especificada."
+   },
+   "Window_Content_AllLang": {
+      "message": "Todo"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "Usado recientemente"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "Escribe o copia aqu\u00ED un texto para traducir.."
+   },
+   "Window_Content_TranslateButton": {
+      "message": "Traducir"
+   }
+}

@@ -1,0 +1,413 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "Abk\u00FCrzung"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "Adjektiv"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "Adverb"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "Verbindung"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "Zwischenruf"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "Nomen"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "Phrase"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "Pr\u00E4position"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "Pronomen"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "Verb"
+   },
+   "History_Content_List_AllLoaded": {
+      "message": "Es gibt nichts mehr."
+   },
+   "History_Content_List_CollapseButton": {
+      "message": "Schlie\u00DFen"
+   },
+   "History_Content_List_DeleteButton": {
+      "message": "L\u00F6schen"
+   },
+   "History_Content_List_ExpandButton": {
+      "message": "\u00D6ffnen"
+   },
+   "History_Content_List_ListenOriginal": {
+      "message": "Anh\u00F6ren die Original"
+   },
+   "History_Content_List_ListenTranslation": {
+      "message": "Anh\u00F6ren die \u00DCbersetzung"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "Die Geschichte ist leer."
+   },
+   "History_Content_List_OnFindFailure": {
+      "message": "Nichts wurde gefunden."
+   },
+   "History_Options_Delete": {
+      "message": "L\u00F6schen die Geschichte der \u00DCbersetzungen"
+   },
+   "History_Options_Delete_AllHeadline": {
+      "message": "Sind Sie sicher?"
+   },
+   "History_Options_Delete_AllNeg": {
+      "message": "Nein"
+   },
+   "History_Options_Delete_AllPos": {
+      "message": "Ja"
+   },
+   "History_Options_Delete_AllProposal": {
+      "message": "Sind Sie genau sicher, dass Sie die Geschichte der \u00DCbersetzungen l\u00F6schen m\u00F6chten?"
+   },
+   "Kernel_AppDescription": {
+      "message": "Augenblicke \u00DCbersetzung eines ausgew\u00E4hlten Text."
+   },
+   "Kernel_AppName": {
+      "message": "instant translate"
+   },
+   "Kernel_Date_Apr": {
+      "message": "Apr"
+   },
+   "Kernel_Date_Aug": {
+      "message": "Aug"
+   },
+   "Kernel_Date_Dec": {
+      "message": "Dez"
+   },
+   "Kernel_Date_Feb": {
+      "message": "Feb"
+   },
+   "Kernel_Date_Jan": {
+      "message": "Jan"
+   },
+   "Kernel_Date_Jul": {
+      "message": "Jul"
+   },
+   "Kernel_Date_Jun": {
+      "message": "Jun"
+   },
+   "Kernel_Date_Mar": {
+      "message": "M\u00E4r"
+   },
+   "Kernel_Date_May": {
+      "message": "Mai"
+   },
+   "Kernel_Date_Nov": {
+      "message": "Nov"
+   },
+   "Kernel_Date_Oct": {
+      "message": "Okt"
+   },
+   "Kernel_Date_Sep": {
+      "message": "Sep"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "Geschichte der \u00DCbersetzungen"
+   },
+   "Kernel_Keys_Ctrl": {
+      "message": "Strg"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "Afrikaans"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "Albanisch"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "Arabisch"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "Armenisch"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "Aut. Erkennung"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "Aserbaidschaner"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "Baske"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "Wei\u00DFrussische"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "Bengali"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "Bulgarisch"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "Katalanisch"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "Ver. Chinesisch"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "Trad. Chinesisch"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "Kroatisch"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "Tschechisch"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "D\u00E4nisch"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "Holl\u00E4nder"
+   },
+   "Kernel_Lang_English": {
+      "message": "Englisch"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "Esperanto"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "Estnisch"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "Tagalog"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "Finnisch"
+   },
+   "Kernel_Lang_French": {
+      "message": "Franz\u00F6sisch"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "Galicisch"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "Georgisch"
+   },
+   "Kernel_Lang_German": {
+      "message": "Deutsch"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "Griechisch"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "Gujarati"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "Haitianisch"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "Hebr\u00E4isch"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "Hindi"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "Ungarisch"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "Isl\u00E4ndisch"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "Indonesisch"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "Irl\u00E4ndisch"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "Italienisch"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "Japanisch"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "Kannada"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "Koreanisch"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "Lateinisch"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "Lettisch"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "Litauisch"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "Mazedonisch"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "Malaysisch"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "Maltesisch"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "Norwegisch"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "Persisch"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "Polnisch"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "Portugiesisch"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "Rum\u00E4nisch"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "Russisch"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "Serbisch"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "Slowakisch"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "Slowenisch"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "Spanisch"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "Swahili"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "Schwedisch"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "Tamil"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "Telugu"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "Thail\u00E4ndisch"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "T\u00FCrkisch"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "Ukrainisch"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "Urdu"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "Vietnamesisch"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "Walisisch"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "Jiddisch"
+   },
+   "Kernel_Network_Error": {
+      "message": "Verbindung Fehler"
+   },
+   "Kernel_Network_Error_DataLoading": {
+      "message": "Konnte Daten nicht geladen werden wegen m\u00F6gliche Probleme mit dem Internet-Verbindung."
+   },
+   "Kernel_OptionEnabled": {
+      "message": "Aktiviert"
+   },
+   "Kernel_Plaque_TranslateTo": {
+      "message": "\u00DCbersetzen auf"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "Einstellungen"
+   },
+   "Settings_General_AmazonAffiliate": {
+      "message": "Amazon Affiliate Partner"
+   },
+   "Settings_General_AmazonAffiliate_Description": {
+      "message": "Wenn Sie stimmen zu, dann wird es ein Tag sein, angeh\u00E4ngt zu Adressen von Amazons Produkte Seiten, die wird der Entwickler ein paar Prozente von ihre K\u00E4ufe auf Amazon bekommen."
+   },
+   "Settings_Interface_AllVariants": {
+      "message": "Alle Varianten"
+   },
+   "Settings_Interface_AllVariants_Description": {
+      "message": "Alle verf\u00FCgbaren Varianten der \u00DCbersetzung werden angezeigt."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "Augenblicke \u00DCbersetzung"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "Der Text in dem Textfeld \u00FCbersetzt wird, kurz nachdem Sie haben die Eingabe beendet."
+   },
+   "Settings_Interface_Save": {
+      "message": "Speichern den Wert"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "Der Wert des Textfeld in dem Popupfenster wird gespeichert, wenn das Fenster geschlossen wird."
+   },
+   "Settings_Tabs_Interface": {
+      "message": "Schnittstelle"
+   },
+   "Settings_Tabs_Translation": {
+      "message": "\u00DCbersetzung"
+   },
+   "Settings_Translation_Context": {
+      "message": "Kontextmen\u00FC"
+   },
+   "Settings_Translation_Context_Description": {
+      "message": "Eine Taste, die in das Kontextmen\u00FC des Browsers ist. Diese Taste wurde ausgelegt, um zu erleichtern \u00DCbersetzung, wenn Sie k\u00F6nnen die Tastatur verwenden nicht."
+   },
+   "Settings_Translation_Context_NewTab": {
+      "message": "Neuer Tab"
+   },
+   "Settings_Translation_Context_OpenDescription": {
+      "message": "Wo die \u00DCbersetzung nach dem Klick auf einen Kontextmen\u00FCpunkt zeigen?"
+   },
+   "Settings_Translation_Context_Tooltip": {
+      "message": "Tooltip"
+   },
+   "Settings_Translation_History": {
+      "message": "Geschichte der \u00DCbersetzungen"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "Alles, was Sie \u00FCbersetzen, ist in den lokalen Cache gespeichert. Au\u00DFer der M\u00F6glichkeit durch die Geschichte surfen, die \u00DCbersetzung des Textes, der bereits \u00FCbersetzt wurde, wird beschleunigt erstaunlich."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "Tastenkombinationen"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "Ausgew\u00E4hlte Text wird \u00FCbersetzt, wenn Sie die angegebene Tastenkombination dr\u00FCcken."
+   },
+   "Window_Agreement_Body": {
+      "message": "H\u00E4tten Sie etwas dagegen um in das Programm Amazon Affiliate zu teilnehmen (ein paar Prozente f\u00FCr den Entwickler von Ihren K\u00E4ufen auf Amazon), um ein bisschen in der kleiner Monatirisierung von der Erweiterung zu helfen?"
+   },
+   "Window_Agreement_Negative": {
+      "message": "Gegen!"
+   },
+   "Window_Agreement_Positive": {
+      "message": "Sicherlich, nein"
+   },
+   "Window_Agreement_Title": {
+      "message": "Monetarisierungs Vereinbarung"
+   },
+   "Window_Content_AllLang": {
+      "message": "Alle"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "Zuletzt verwendete"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "Geben Sie ein oder kopieren Sie einen Text hier zu \u00FCbersetzen.."
+   },
+   "Window_Content_TranslateButton": {
+      "message": "\u00DCbersetzen"
+   }
+}

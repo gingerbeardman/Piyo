@@ -1,0 +1,23 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "jquery-1.7.2.min.js", "functions.js" ],
+      "matches": [ "http://twitter.com/*", "https://twitter.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "Refresh the Timeline automatically when there are new tweets.",
+   "icons": {
+      "128": "images/twitter.png",
+      "48": "images/twitter.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCebnDhF4tiUE3NlXrrmN8SlIzG6JAQTeVNbq7CpGLDj3rfTcHovZGTP6PP6MAkGfaUyTgZtO3wic+WYCQIcuO0lLCYnvKze047HaCKcrZOw7HNXKN9SCSU7A5S33+LTQi8ktMQFrCzVtrrobSLkYixsKbF3fpHo9xi4zC5u00SFwIDAQAB",
+   "manifest_version": 2,
+   "name": "Refresh for Twitter",
+   "permissions": [ "http://twitter.com/", "https://twitter.com/" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.6.2",
+   "web_accessible_resources": [ "reload.js" ]
+}

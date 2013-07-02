@@ -1,0 +1,31 @@
+{
+   "background": {
+      "page": "./pages/internal/background.html"
+   },
+   "browser_action": {
+      "default_icon": "./resources/images/icons/icon19.png",
+      "default_popup": "./pages/public/window.html",
+      "default_title": "__MSG_Kernel_AppName__"
+   },
+   "content_scripts": [ {
+      "css": [ "./resources/styles/pages/common/main.css", "./resources/styles/pages/internal/content.css" ],
+      "js": [ "./src/lib/prevel.js", "./src/kernel/kernel.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com https://apis.google.com; style-src 'self' 'unsafe-inline'; img-src 'self' http://www.google-analytics.com; connect-src *; media-src http://translate.google.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_Kernel_AppDescription__",
+   "icons": {
+      "128": "./resources/images/icons/icon128.png",
+      "16": "./resources/images/icons/icon16.png",
+      "48": "./resources/images/icons/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDkOqWNYxiJx8tna4iC3m5gof8gEaRmi4c/DzV3DL34xUHVvoIUuVMiEM2jUjtrP07l9y3BYiZFE6gJ+J9YiWDMEetzO8Rr6kfKz1q7rxVruC1Ov1HimngpG87Ke0BJvFx3i9m/cmw93VvuPjtFSK1mQiXAucfDroBDVthjos8bAQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_Kernel_AppName__",
+   "options_page": "./pages/public/options.html",
+   "permissions": [ "*://*/*", "tabs", "contextMenus", "webRequest", "webNavigation", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.1",
+   "web_accessible_resources": [ "/src/kernel/init.js", "/src/hub/content/router.js", "/src/hub/content/render.js", "/src/hub/content/handlers.js", "/src/ui_views/multi_variants.js", "/src/ext/tpl.js", "/src/ext/event.js", "/src/particles/translate_ctt/tcModel.js", "/src/ui_components/tooltip/simple.js", "/src/ui_components/tooltip/help.js", "/src/templates/helpSelectedTooltip.js", "/src/templates/simpleTooltip.js", "/src/ui_components/tooltip/helpSelected.js", "/src/templates/helpTooltip.js", "/src/particles/scrollbars/sModel.js", "/src/ui_components/scrollbar/scrollbar.js", "/resources/styles/ui_components/tooltip/helpSelected.css", "/resources/styles/pages/common/main.css", "/resources/styles/pages/internal/content.css", "/resources/styles/ui_components/tooltip/simple.css", "/resources/styles/ui_components/tooltip/help.css", "/resources/images/sprites/sprite.png", "/src/particles/listen/lModel.js", "/src/ext/audio.js", "/src/ext/dom.js", "/resources/images/backgrounds/content.png", "/resources/images/backgrounds/left_right_transition.png" ]
+}

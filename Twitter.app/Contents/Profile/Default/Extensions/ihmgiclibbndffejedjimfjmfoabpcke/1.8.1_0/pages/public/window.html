@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <script defer src="/src/lib/prevel.js"></script>
+  <script defer src="/src/kernel/kernel.js"></script>
+
+  <link href="/resources/styles/pages/common/pages_main.css" rel="stylesheet" type="text/css">
+ </head>
+ 
+ <body>
+  <div id="main-wrap">
+   <div class="top-wrap">
+    <div class="inside-layout">
+     <div class="app-logo"></div>
+     <div class="app-name need-html-locale" id="Kernel_AppName"></div>
+     <div class="page-action">
+      <div class="inside-pa-layout">
+       <div class="pa-collapsable collapsable-history">
+        <div class="pa-button history-button"><div class="hist-ico"></div></div>
+        <div class="pa-delimiter"></div>
+       </div>
+       
+       <div class="pa-button settings-button"><div class="sett-ico"></div></div>
+      </div>
+     </div>
+    </div>
+   </div>
+
+   <div class="content-wrap">
+    <div class="lang-selectors">
+     <table cellpadding="0" cellspacing="0" border="0">
+      <tr>
+       <td>
+        <div class="lang-particle from-lang">
+         <select id="from-language-selector"></select>
+        </div>
+       </td>
+       <td>
+        <div class="lang-swap">
+         <div class="swap-thumbnail"></div>
+        </div>
+       </td>
+       <td>
+        <div class="lang-particle to-lang">
+         <select id="to-language-selector"></select>
+        </div>
+       </td>
+      </tr>
+     </table>
+    </div>
+
+    <div class="complex-wrap">
+     <div class="left-part">
+      <textarea class="need-ph-locale translation-input" id="Window_Content_TextareaPlaceholder"></textarea>
+      <div class="action-bar">
+       <div class="action-button listen-raw-button"><div class="listen-icon"></div></div>
+       <div class="action-button translate-button need-html-locale" id="Window_Content_TranslateButton"></div>
+      </div>
+     </div><div class="right-part">
+      <div class="translation-empty-cap"></div>
+
+      <div class="right-part-content-wrap">
+       <div class="translation-layout-wrap">
+        <div id="trVisibleScroll">
+         <div id="trEntireScroll">
+          <div class="translation-layout"></div>
+         </div>
+        </div>
+       </div><div class="tl-action-bar">
+        <div class="tl-action-bar-inner-layout">
+         <div class="tl-action-button listen-translation-button"></div>
+        </div>
+       </div>
+      </div>
+      
+      <div id="tr-scrollbar">
+       <div id="track">
+        <div id="dragBar"></div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

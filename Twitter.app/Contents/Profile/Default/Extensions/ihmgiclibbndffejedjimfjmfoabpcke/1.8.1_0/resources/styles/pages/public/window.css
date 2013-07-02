@@ -1,0 +1,341 @@
+body {
+  background: url(../../../images/backgrounds/body.png)
+}
+
+.app-logo {
+  top: 0
+}
+
+.app-name {
+  top: 1px
+}
+
+#main-wrap {
+  
+}
+
+  .selectors-wrap {
+    
+  }
+
+    .lang-selectors {
+      margin-bottom: 8px;
+      margin-top: 3px
+    }
+
+      .lang-particle {
+        width: 164px
+      }
+
+      .from-lang {
+        display: inline-block;
+        margin-right: 13px
+      }
+
+      .lang-swap {
+        display: inline-block;
+        width: 20px;
+        height: 28px;
+        border-radius: 4px;
+        padding: 3px;
+        cursor: pointer;
+        -webkit-user-select: none;
+        margin-top: 2px;
+        margin-right: 1px;
+        position: relative;
+        left: 3px
+      }
+
+        .lang-swap:active .swap-thumbnail {
+          background-position: 0px 83px
+        }
+
+        .swap-thumbnail {
+          background: url(../../../images/sprites/sprite.png);
+          background-position: 0px 100px;
+          width: 18px;
+          height: 17px;
+          margin: 6px 0 0 3px
+        }
+
+      .to-lang {
+        display: inline-block;
+        margin-left: 10px
+      }
+
+  .content-wrap {
+    padding: 2px 15px 15px 15px
+  }
+
+    .complex-wrap {
+      box-shadow: 0 1px 0 white;
+      border-radius: 4px;
+      height: 170px
+    }
+
+      .left-part {
+        display: inline-block;
+        height: 170px;
+        vertical-align: top;
+        border-top-left-radius: 4px;
+        border-bottom-left-radius: 4px
+      }
+
+      .textarea-with-focus-lp {
+        box-shadow: 0 0 10px rgba(36, 93, 146, 0.325)
+      }
+
+        .translation-input {
+          border: 1px solid #C7C6C2;
+          resize: none;
+          padding: 10px;
+          font-family: Tahoma;
+          font-size: 13px;
+          width: 154px;
+          position: relative;
+          display: inline-block;
+          height: 114px;
+          border-top-left-radius: 4px;
+          vertical-align: top;
+          border-bottom: none
+        }
+
+          .translation-input:focus {
+            outline: none !important;
+            border: 1px solid #245D92;
+            border-bottom: none
+          }
+
+          .translate-button {
+
+          }
+
+        .textarea-with-focus {
+          border-left: 1px solid #245D92 !important;
+          border-bottom: 1px solid #245D92 !important;
+          border-right: 1px solid #245D92 !important
+        }
+
+        .action-bar {
+          position: absolute;
+          bottom: 16px;
+          padding: 5px 5px 0 5px;
+          left: 16px;
+          border-bottom-left-radius: 4px;
+          width: 164px;
+          background: white;
+          border-left: 1px solid #C7C6C2;
+          border-bottom: 1px solid #C7C6C2;
+          border-right: 1px solid #C7C6C2;
+          height: 29px
+        }
+
+          .action-button {
+            display: inline-block;
+            border: 1px solid #C7C6C2;
+            padding: 3px;
+            background: -webkit-linear-gradient(top, white, whiteSmoke);
+            border-radius: 4px;
+            cursor: pointer;
+            -webkit-user-select: none;
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.775), 0 1px 0 rgba(255, 255, 255, 0.475)
+          }
+
+            .action-button .listen-icon {
+              width: 16px;
+              height: 16px;
+              background: url(../../../images/sprites/sprite.png);
+              background-position: -14px 153px;
+              position: relative;
+              left: -2px
+            }
+
+          .translate-button {
+            font-size: 12px;
+            position: relative;
+            top: -7px;
+            text-align: center;
+            width: 127px;
+            font-weight: 700;
+            text-shadow: -1px 0 0 #276AA3;
+            color: white;
+            background: #3081CC;
+            border: 1px solid #245D92;
+            box-shadow: inset 0 1px 1px rgba(101, 169, 220, 1);
+            padding: 4px 3px
+          }
+
+            .translate-button:active {
+              box-shadow: none;
+              background: #2777C1
+            }
+
+      .right-part {
+        display: inline-block;
+        height: 135px
+      }
+
+        .translation-empty-cap {
+          height: 133px
+        }
+
+        .right-part-content-wrap, .translation-empty-cap {
+          display: inline-block;
+          width: 213px;
+          background: #F5F5F5;
+          border-top-right-radius: 4px;
+          border-bottom-right-radius: 4px;
+          border: 1px solid #C7C6C2;
+          border-left: none;
+          box-shadow: inset 0 1px 0 white;
+          height: 168px
+        }
+
+          .translation-layout-wrap  {
+            font-size: 13px;
+            display: inline-block;
+            width: 176px
+          }
+
+            .translation-layout {
+              margin: 10px
+            }
+
+          .tl-action-bar {
+            height: 168px;
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.125);
+            width: 36px;
+            border-top-right-radius: 4px;
+            border-bottom-right-radius: 4px;
+            border-left: 1px solid #D9D9D9;
+            box-shadow: inset 1px 0 3px rgba(43, 43, 43, 0.05), inset 0 1px 0 whiteSmoke
+          }
+
+            .tl-action-bar-inner-layout {
+
+            }
+
+              .tl-action-button {
+                
+              }
+
+                .listen-translation-button {
+                  width: 16px;
+                  height: 17px;
+                  background: url(../../../images/sprites/sprite.png);
+                  background-position: -54px 153px;
+                  margin: 10px 0 0 10px;
+                  cursor: pointer
+                }
+
+                .listen-translation-button:active {
+                  background-position: -54px 136px
+                }
+
+.variant-bunch-wrap {
+
+}
+
+  .variant-bunch-wrap .inside-layout {
+
+  }
+
+    .main-variant-wrap {
+
+    }
+
+      .main-variant {
+        font-weight: 700;
+        font-size: 15px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.775);
+        display: inline-block;
+        vertical-align: top;
+        color: #2B2B2B
+      }
+
+    .variants-by-pos {
+      
+    }
+
+      .variant-row {
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.775);
+      }
+
+        .v-pos {
+          font-weight: 700;
+          margin-top: 10px;
+          font-size: 12px;
+          color: #545454
+        }
+
+          .v-pos:first-child {
+            margin-top: 8px
+          }
+
+        .v-closest-wrap {
+          font-size: 13px;
+          color: #4E4E4E
+        }
+
+          .v-item {
+            display: inline-block
+          }
+
+.listen-disabled, .trans-disabled {
+  opacity: 0.475
+}
+
+  .listen-disabled:hover, .trans-disabled:hover {
+    cursor: default !important
+  }
+
+  .listen-disabled:active {
+    background-position: -54px 153px !important
+  }
+
+/* ========== */
+/* Scrollbars */
+
+#trVisibleScroll {
+  position: relative !important;
+  overflow: hidden;
+  height: 168px;
+  width: 100%
+}
+
+#tr-scrollbar {
+  position: absolute;
+  display: block;
+  width: 9px; 
+  height: 94px
+}
+
+#track { 
+  position: absolute;
+  left: 166px;
+  top: -169px;
+  width: 11px;
+  height: 164px;
+  background: transparent
+}
+
+#dragBar {
+  position: absolute; 
+  left: 1px;
+  top: 1px;
+  width: 5px; 
+  height: 10px;
+  background: rgba(43, 43, 43, 0.475);
+  cursor: pointer;
+  border-radius: 3px;
+  box-shadow: 0 1px 0 #FFF
+}
+
+  #dragBar:hover, #dragBar:active {
+    background: rgba(43, 43, 43, 0.775)
+  } 
+
+div#scrollbar, div#track, div#dragBar {
+  -webkit-user-select: none
+}

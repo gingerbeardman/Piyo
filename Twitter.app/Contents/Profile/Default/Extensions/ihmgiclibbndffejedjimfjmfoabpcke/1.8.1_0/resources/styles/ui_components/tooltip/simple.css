@@ -1,0 +1,15 @@
+#TnITTtw-tooltip-wrap {
+  position: absolute;
+  z-index: 9999;
+  font-family: Tahoma;
+  font-size: 13px;
+  line-height: normal
+}
+
+  .TnITTtw-inside-layout {
+
+  }
+
+    .TnITTtw-content {
+      
+    }

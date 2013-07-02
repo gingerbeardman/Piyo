@@ -1,0 +1,33 @@
+{
+   "background": {
+      "scripts": [ "PageExpand.js", "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "PageExpand.js", "content_scripts.js" ],
+      "matches": [ "http://*/*", "https://*/*", "ftp://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "ja",
+   "description": "__MSG_extension_description__",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "19": "icon19.png",
+      "32": "icon32.png",
+      "48": "icon48.png",
+      "64": "icon64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCKk4dIoQkGuAg+Nup6a58DfUMqAZewPqQya4H/z/eTA4HfCgpZIa1dc7obiQO5m4j2TLIYbbzv33YGWYt8jtVMw19ZAXTL6Lsny4ESnfTfOmAjkmE54JJSMqlO8AKF9+XvJ2tVOWDCwkiayd/OjsBqMzS31C9EBw2dWZrkhOaFQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extension_name__",
+   "options_page": "options.html",
+   "page_action": {
+      "default_icon": "icon19.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extension_name__"
+   },
+   "permissions": [ "tabs", "webRequest", "webRequestBlocking", "contextMenus", "storage", "clipboardWrite", "http://*/", "https://*/", "ftp://*/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.1"
+}

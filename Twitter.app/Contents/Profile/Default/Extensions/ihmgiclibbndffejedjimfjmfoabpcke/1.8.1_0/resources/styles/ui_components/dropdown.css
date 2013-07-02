@@ -1,0 +1,94 @@
+.ui_selector {
+  font-family: Tahoma;
+  width: 150px
+}
+
+  .ui_selector .select {
+    color: #2B2B2B;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.775);
+    font-weight: 700;
+    font-size: 12px;
+    border: 1px solid #C7C6C2;
+    padding: 10px;
+    background: -webkit-linear-gradient(top, whiteSmoke, #EFEFEF);
+    width: 154px !important;
+    -webkit-user-select: none;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: inset 0 1px 0 white, 0 1px 0 white
+  }
+      
+  .ui_selector .select:active, .ui_selector .active {
+    box-shadow: none;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    background: #EFEFEF
+  }
+
+  .ui_selector .options {
+    margin-left: 0px;
+    margin-top: -1px;
+    background: rgba(255, 255, 255, 0.875);
+    border: 1px solid #C7C6C2;
+    width: 174px;
+    overflow: hidden;
+    max-height: 182px;
+    position: absolute;
+    font-size: 12px;
+    box-shadow: 0 3px 13px rgba(28, 29, 33, 0.145);
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  
+    .ui_selector .options ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      width: 174px
+    }
+    
+      .ui_selector .options ul .group, 
+      .ui_selector .options ul .group:hover, 
+      .ui_selector .options ul .group.whenHover {
+        padding: 10px;
+        color: #2b2b2b;
+        font-weight: 700;
+        font-size: 12px;
+        text-align: left;
+        background: #F7F7F7;
+        cursor: default;
+        border-top: none;
+        text-shadow: 0 1px 0 #FFF
+      }
+
+      .ui_selector .options ul li {
+        margin-top: 1px;
+        padding: 10px;
+        border-top: 1px solid rgba(255, 255, 255, 0.225);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.225);
+        -webkit-user-select: none;
+        text-align: center;
+        font-size: 12px
+      }
+      
+        .ui_selector .options ul li:hover, .ui_selector .options ul li.whenHover {
+          cursor: pointer;
+          background: rgba(48, 129, 204, 0.125);
+          border-top: 1px solid rgba(48, 129, 204, 0.020);
+          border-bottom: 1px solid rgba(48, 129, 204, 0.020);
+          color: #2B2B2B;
+          text-align: center;
+          text-shadow: 0 1px 0 #FFF
+        }
+
+        .ui_selector .options ul li.option_selected {
+          cursor: pointer;
+          background: #3081CC;
+          border-top: 1px solid #245D92;
+          border-bottom: 1px solid #245D92;
+          color: white;
+          box-shadow: inset 0 1px 0 #5CA2DA;
+          text-shadow: -1px 0 0 #276AA3;
+          text-align: center
+        }

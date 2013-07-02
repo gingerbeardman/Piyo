@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script defer src="/src/lib/prevel.js"></script>
+    <script defer src="/src/kernel/kernel.js"></script>
+
+    <link href="/resources/styles/pages/common/pages_main.css" rel="stylesheet" type="text/css">
+    <link href="/resources/styles/pages/common/main.css" rel="stylesheet" type="text/css">
+    <link href="/resources/styles/pages/public/options.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="main-wrap">
+    <div class="top-wrap">
+        <div class="inside-layout">
+            <div class="page-action">
+                <div class="inside-pa-layout">
+                    <div class="tabber-wrap">
+                        <div class="tabber-inside-layout">
+                            <div class="settings-tab tab-1 need-html-locale" id="Settings_Tabs_Translation"></div>
+                            <div class="tab-delimiter"></div>
+                            <div class="settings-tab tab-2 need-html-locale" id="Settings_Tabs_Interface"></div>
+                            <div class="tab-delimiter"></div>
+                            <div class="settings-tab tab-3 need-html-locale" id="Settings_Tabs_General"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="floating-arrow-wrap">
+        <div class="floating-arrow"></div>
+    </div>
+
+    <div class="content-wrap">
+
+        <!-- Translation -->
+        <div class="tab-contents tc-1">
+            <div class="settings-block">
+                <div class="headline need-html-locale" id="Settings_Translation_KeyCombos"></div>
+                <div class="description need-html-locale" id="Settings_Translation_KeyCombos_Description"></div>
+                <div class="adj-layout">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td class="col-with-tick">
+                                <input type="checkbox" id="key-combo">
+                            </td>
+                            <td>
+                                <div class="label key-combo-label need-html-locale" id="Kernel_OptionEnabled"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <div class="collapsable-wrap cw-combo">
+                                    <div class="combo-select">
+                                        <select id="key-combinations"></select>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div class="settings-block">
+                <div class="headline need-html-locale" id="Settings_Translation_Context"></div>
+                <div class="description need-html-locale" id="Settings_Translation_Context_Description"></div>
+                <div class="adj-layout">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td class="col-with-tick">
+                                <input type="checkbox" id="context">
+                            </td>
+                            <td>
+                                <div class="label context-label need-html-locale" id="Kernel_OptionEnabled"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <div class="collapsable-wrap cw-context">
+
+                                    <div class="context-additional-settings">
+                                        <div class="context-additional-desc need-html-locale"
+                                             id="Settings_Translation_Context_OpenDescription"></div>
+                                        <div class="context-additional-switch">
+                                            <div class="switch-wrap">
+                                                <div class="sw-inner-layout">
+                                                    <div class="sw-item sw-item-n-1 need-html-locale"
+                                                         id="Settings_Translation_Context_Tooltip"></div><div class="sw-item sw-item-n-2 need-html-locale"
+                                                         id="Settings_Translation_Context_NewTab"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div class="settings-block">
+                <div class="headline need-html-locale" id="Settings_Translation_History"></div>
+                <div class="description need-html-locale" id="Settings_Translation_History_Description"></div>
+                <div class="adj-layout">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td class="col-with-tick">
+                                <input type="checkbox" id="history">
+                            </td>
+                            <td>
+                                <div class="label history-label need-html-locale" id="Kernel_OptionEnabled"></div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- Interface -->
+        <div class="tab-contents tc-2">
+            <div class="settings-block">
+                <div class="headline need-html-locale" id="Settings_Interface_AllVariants"></div>
+                <div class="description need-html-locale" id="Settings_Interface_AllVariants_Description"></div>
+                <div class="adj-layout">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td class="col-with-tick">
+                                <input type="checkbox" id="all-variants">
+                            </td>
+                            <td>
+                                <div class="label all-variants-label need-html-locale"
+                                     id="Kernel_OptionEnabled"></div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div class="settings-block">
+                <div class="headline need-html-locale" id="Settings_Interface_InstantTranslation"></div>
+                <div class="description need-html-locale"
+                     id="Settings_Interface_InstantTranslation_Description"></div>
+                <div class="adj-layout">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td class="col-with-tick">
+                                <input type="checkbox" id="instant-translation">
+                            </td>
+                            <td>
+                                <div class="label instant-translation-label need-html-locale"
+                                     id="Kernel_OptionEnabled"></div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div class="settings-block">
+                <div class="headline need-html-locale" id="Settings_Interface_Save"></div>
+                <div class="description need-html-locale" id="Settings_Interface_Save_Description"></div>
+                <div class="adj-layout">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td class="col-with-tick">
+                                <input type="checkbox" id="save">
+                            </td>
+                            <td>
+                                <div class="label save-label need-html-locale" id="Kernel_OptionEnabled"></div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-contents tc-3">
+            <div class="settings-block">
+                <div class="headline need-html-locale" id="Settings_General_AmazonAffiliate"></div>
+                <div class="description need-html-locale" id="Settings_General_AmazonAffiliate_Description"></div>
+                <div class="adj-layout">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td class="col-with-tick">
+                                <input type="checkbox" id="pamazon">
+                            </td>
+                            <td>
+                                <div class="label pamazon-label need-html-locale"
+                                     id="Kernel_OptionAgree"></div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

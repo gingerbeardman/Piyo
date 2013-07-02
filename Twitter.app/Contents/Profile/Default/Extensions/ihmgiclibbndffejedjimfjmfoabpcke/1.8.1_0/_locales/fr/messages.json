@@ -1,0 +1,392 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "Abr\u00E9viation"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "Adjectif"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "Adverbe"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "Conjonction"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "Interjection"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "Nom"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "Phrase"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "Pr\u00E9position"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "Pronom"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "Verbe"
+   },
+   "History_Content_List_AllLoaded": {
+      "message": "Rien de plus."
+   },
+   "History_Content_List_CollapseButton": {
+      "message": "R\u00E9duire"
+   },
+   "History_Content_List_DeleteButton": {
+      "message": "Supprimer"
+   },
+   "History_Content_List_ExpandButton": {
+      "message": "Ouvrir"
+   },
+   "History_Content_List_ListenOriginal": {
+      "message": "\u00C9coutez l'original"
+   },
+   "History_Content_List_ListenTranslation": {
+      "message": "\u00C9coutez la traduction"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "L'histoire est vide."
+   },
+   "History_Content_List_OnFindFailure": {
+      "message": "Rien n'a \u00E9t\u00E9 trouv\u00E9."
+   },
+   "History_Options_Delete": {
+      "message": "Effacer l'historique des traductions"
+   },
+   "History_Options_Delete_AllHeadline": {
+      "message": "Etes-vous s\u00FBr?"
+   },
+   "History_Options_Delete_AllNeg": {
+      "message": "Aucun"
+   },
+   "History_Options_Delete_AllPos": {
+      "message": "Oui"
+   },
+   "History_Options_Delete_AllProposal": {
+      "message": "\u00CAtes-vous exactement s\u00FBr de vouloir effacer l'historique des traductions?"
+   },
+   "Kernel_AppDescription": {
+      "message": "Traduction instantan\u00E9e d'un texte s\u00E9lectionn\u00E9."
+   },
+   "Kernel_AppName": {
+      "message": "instant translate"
+   },
+   "Kernel_Date_Apr": {
+      "message": "avr"
+   },
+   "Kernel_Date_Aug": {
+      "message": "ao\u00FB"
+   },
+   "Kernel_Date_Dec": {
+      "message": "d\u00E9c"
+   },
+   "Kernel_Date_Feb": {
+      "message": "f\u00E9v"
+   },
+   "Kernel_Date_Jan": {
+      "message": "jan"
+   },
+   "Kernel_Date_Jul": {
+      "message": "jui"
+   },
+   "Kernel_Date_Jun": {
+      "message": "jui"
+   },
+   "Kernel_Date_Mar": {
+      "message": "mar"
+   },
+   "Kernel_Date_May": {
+      "message": "mai"
+   },
+   "Kernel_Date_Nov": {
+      "message": "nov"
+   },
+   "Kernel_Date_Oct": {
+      "message": "oct"
+   },
+   "Kernel_Date_Sep": {
+      "message": "sep"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "Histoire de la traduction"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "Afrikaans"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "Albanais"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "Arabe"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "Arm\u00E9nien"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "D\u00E9tection automatique"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "Azerba\u00EFdjanais"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "Basque"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "Bi\u00E9lorusse"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "Bengali"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "Bulgare"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "Catalan"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "Chinois simplifi\u00E9"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "Chinois traditionnel"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "Croate"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "Tch\u00E8que"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "Danois"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "N\u00E9erlandais"
+   },
+   "Kernel_Lang_English": {
+      "message": "Anglais"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "Esp\u00E9ranto"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "Estonien"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "Tagalog"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "Finlandais"
+   },
+   "Kernel_Lang_French": {
+      "message": "Fran\u00E7ais"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "Galicien"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "G\u00E9orgien"
+   },
+   "Kernel_Lang_German": {
+      "message": "Allemand"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "Grecque"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "Gujarati"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "Cr\u00E9ole ha\u00EFtien"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "H\u00E9breu"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "Hindi"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "Hongrois"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "Islandais"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "Indon\u00E9sien"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "Irlandais"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "Italien"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "Japonais"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "Kannada"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "Cor\u00E9en"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "Latin"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "Letton"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "Lituanien"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "Mac\u00E9donienne"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "Malaisien"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "Maltais"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "Norv\u00E9gien"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "Persan"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "Polonais"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "Portugais"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "Roumain"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "Russe"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "Serbe"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "Slovaque"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "Slov\u00E8ne"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "Espagnol"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "Swahili"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "Su\u00E9dois"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "Tamil"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "Telugu"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "Tha\u00EF"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "Turc"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "Ukrainien"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "Ourdou"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "Vietnamien"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "Gallois"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "Yiddish"
+   },
+   "Kernel_Network_Error": {
+      "message": "Erreur de connexion"
+   },
+   "Kernel_Network_Error_DataLoading": {
+      "message": "Impossible de charger les donn\u00E9es en raison de probl\u00E8mes possibles avec la connexion Internet."
+   },
+   "Kernel_OptionEnabled": {
+      "message": "Activ\u00E9e"
+   },
+   "Kernel_Plaque_TranslateTo": {
+      "message": "Traduire en"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "R\u00E9glages"
+   },
+   "Settings_Interface_AllVariants": {
+      "message": "Toutes les variantes"
+   },
+   "Settings_Interface_AllVariants_Description": {
+      "message": "Toutes les variantes disponibles de la traduction sont affich\u00E9s."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "Traduction instantan\u00E9e"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "Le texte dans le champ texte est traduit juste apr\u00E8s avoir fini de le taper."
+   },
+   "Settings_Interface_Save": {
+      "message": "Sauvegarder la valeur"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "La valeur du champ de texte dans la fen\u00EAtre pop-up est enregistr\u00E9e, lorsque la fen\u00EAtre elle-m\u00EAme est ferm\u00E9."
+   },
+   "Settings_Tabs_Interface": {
+      "message": "Interface"
+   },
+   "Settings_Tabs_Translation": {
+      "message": "Traduction"
+   },
+   "Settings_Translation_Context": {
+      "message": "Menu contextuel"
+   },
+   "Settings_Translation_Context_Description": {
+      "message": "Une cl\u00E9 qui se trouve dans le menu contextuel du navigateur. Cette cl\u00E9 a \u00E9t\u00E9 con\u00E7u pour faciliter la traduction si vous ne pouvez pas utiliser le clavier."
+   },
+   "Settings_Translation_Context_NewTab": {
+      "message": "Nouvel onglet"
+   },
+   "Settings_Translation_Context_OpenDescription": {
+      "message": "O\u00F9 publier la traduction apr\u00E8s clic sur un \u00E9l\u00E9ment du menu contextuel?"
+   },
+   "Settings_Translation_Context_Tooltip": {
+      "message": "Info-bulle"
+   },
+   "Settings_Translation_History": {
+      "message": "Histoire de la traduction"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "Tout ce que vous traduisez est enregistr\u00E9 dans le cache local. Sauf une possibilit\u00E9 de naviguer \u00E0 travers l'histoire, la traduction du texte, qui a d\u00E9j\u00E0 \u00E9t\u00E9 traduit, est incroyablement acc\u00E9l\u00E9r\u00E9."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "Combinaisons de touches"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "Le texte s\u00E9lectionn\u00E9 est traduit lorsque vous appuyez sur la combinaison de touches sp\u00E9cifi\u00E9e."
+   },
+   "Window_Content_AllLang": {
+      "message": "Tous"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "R\u00E9cemment utilis\u00E9es"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "Saisissez ou copiez le texte ici pour la traduire.."
+   },
+   "Window_Content_TranslateButton": {
+      "message": "Traduire"
+   }
+}

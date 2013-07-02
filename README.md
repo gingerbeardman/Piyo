@@ -19,7 +19,7 @@ It displays a modified version of the Twitter website using Google Chrome.
 Everything has been configured to a high degree over a long period of time, meaning it should not require you to do anything other than login to the Twitter website to get the most out of it.
 
 #Features
-You can see how it compares with other Mac OS X Twitter clients in this spreadsheet: [http://bit.ly/mactwitter](http://bit.ly/mactwitter)
+You can see how *Piyo* compares with other Mac OS X Twitter clients in this spreadsheet: [http://bit.ly/mactwitter](http://bit.ly/mactwitter)
 
 The following features are supported:
 
@@ -78,7 +78,6 @@ Pull requests are accepted, and all feature suggestions will be considered and i
 
 ##To Do
 - Check for updates script  
-- Remote configuration for PageExpand  
 
 ##Licence
 This app is available under the MIT license. See the LICENSE file for details or visit [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)

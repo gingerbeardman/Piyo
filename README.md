@@ -4,7 +4,7 @@
 
 ##Installation
 - [Download the zip](https://github.com/gingerbeardman/Piyo/raw/master/Piyo.app.zip)
-- Unzip it if required
+- Unzip it, if required
 - Run the app
 - Enjoy
 

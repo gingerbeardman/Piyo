@@ -1,14 +1,24 @@
-#Open Source Mac OS X Twitter client
+#Piyo: an Open Source Mac OS X Twitter client
 
-This app displays a modified version of the Twitter website using Google Chrome.
+*Piyo* displays a modified version of the Twitter website using Google Chrome.
 
-It is heavilty customised to provide a feature-rich experience. It uses custom styles, scripts and extensions to do the dirty work.
+##Installation
+- [Download the zip](https://github.com/gingerbeardman/Piyo/raw/master/Piyo.app.zip)
+- Unzip it if required
+- Run the app
+- Enjoy
 
-Everything has been configured to a high degree over a long period of time, meaning it does not require you to do anything other than login to the Twitter website.
+###Requirements
+[Google Chrome](http://www.google.com/chrome/) should be installed to /Applications for *Piyo* to work correctly.
 
-You can see how it compares with other Mac OS X Twitter clients in this spreadsheet: http://bit.ly/mactwitter
+##Background
+*Piyo* is heavilty customised to provide a feature-rich experience. It uses custom styles, scripts and extensions to do the dirty work.
+
+Everything has been configured to a high degree over a long period of time, meaning it should not require you to do anything other than login to the Twitter website and start using it.
 
 #Features
+You can see how it compares with other Mac OS X Twitter clients in this spreadsheet: [http://bit.ly/mactwitter](http://bit.ly/mactwitter)
+
 The following changes are supported:
 
 ##User Styles
@@ -61,8 +71,7 @@ The following changes are supported:
 Pull requests are accepted, and all feature suggestions will be considered and implemented when possible.
 
 ##Change Log
-
-###2013-07-02
+**2013-07-02**  
 - Initial public release
 
 ##To Do
@@ -70,4 +79,4 @@ Pull requests are accepted, and all feature suggestions will be considered and i
 - Remote configuration for PageExpand  
 
 ##Licence
-This app is available under the MIT license. See the LICENSE file for details or visit http://opensource.org/licenses/MIT
+This app is available under the MIT license. See the LICENSE file for details or visit [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)

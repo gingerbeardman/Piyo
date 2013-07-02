@@ -216,9 +216,9 @@
       "static_spki_hashes": [  ]
    },
    "df0sSkr4gOg4VK8d/NNTAWFtAN/MjCgPCJ5ml+ucdZE=": {
-      "created": 1372768512.451175,
+      "created": 1372768433.447068,
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1404304512.451168,
+      "expiry": 1404304433.447061,
       "include_subdomains": false,
       "mode": "force-https",
       "static_spki_hashes": [  ]

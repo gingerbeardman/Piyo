@@ -1,6 +1,6 @@
 #Piyo
 
-***Piyo* is an Open Source Twitter client for Mac OS X.**
+***Piyo* is an open source Twitter client for Mac OS X.**
 
 It displays a modified version of the Twitter website using Google Chrome.
 

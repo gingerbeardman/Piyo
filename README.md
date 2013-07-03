@@ -77,7 +77,7 @@ Pull requests are accepted, and all feature suggestions will be considered and i
 - Initial public release
 
 ##To Do
-- Check for updates remote UserScript  
+See [GitHub Issues](https://github.com/gingerbeardman/Piyo/issues)
 
 ##Licence
 This app is available under the MIT license. See the LICENSE file for details or visit [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)

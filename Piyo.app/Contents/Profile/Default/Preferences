@@ -19,10 +19,10 @@
       "pepper_flash_settings_enabled": true,
       "window_placement": {
          "always_on_top": false,
-         "bottom": 692,
-         "left": 264,
+         "bottom": 1043,
+         "left": 111,
          "maximized": false,
-         "right": 796,
+         "right": 1371,
          "top": 26,
          "work_area_bottom": 1076,
          "work_area_left": 0,
@@ -162,7 +162,7 @@
    "extensions": {
       "autoupdate": {
          "last_check": "13016989185160060",
-         "next_check": "13017246789349074"
+         "next_check": "13017329561935888"
       },
       "blacklistupdate": {
          "lastpingday": "13016962802503560",
@@ -2523,7 +2523,7 @@
             "apis.google.com:443": {
                "settings": {
                   "4": 100,
-                  "5": 61,
+                  "5": 16,
                   "6": 0
                },
                "supports_spdy": true
@@ -2940,7 +2940,7 @@
             "s.ytimg.com:443": {
                "settings": {
                   "4": 100,
-                  "5": 170,
+                  "5": 10,
                   "6": 3
                },
                "supports_spdy": true
@@ -2963,7 +2963,7 @@
             "ssl.google-analytics.com:443": {
                "settings": {
                   "4": 100,
-                  "5": 10,
+                  "5": 16,
                   "6": 0
                },
                "supports_spdy": true
@@ -2971,7 +2971,7 @@
             "ssl.gstatic.com:443": {
                "settings": {
                   "4": 100,
-                  "5": 92,
+                  "5": 16,
                   "6": 0
                },
                "supports_spdy": true
@@ -3057,7 +3057,7 @@
             "www.google.co.uk:443": {
                "settings": {
                   "4": 100,
-                  "5": 87,
+                  "5": 10,
                   "6": 0
                },
                "supports_spdy": true
@@ -3065,7 +3065,7 @@
             "www.google.com:443": {
                "settings": {
                   "4": 100,
-                  "5": 7,
+                  "5": 16,
                   "6": 0
                },
                "supports_spdy": true
@@ -3099,7 +3099,7 @@
             "www.youtube-nocookie.com:443": {
                "settings": {
                   "4": 100,
-                  "5": 16,
+                  "5": 10,
                   "6": 0
                },
                "supports_spdy": true

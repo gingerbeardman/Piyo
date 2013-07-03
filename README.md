@@ -4,6 +4,9 @@
 
 It displays a modified version of the Twitter website using Google Chrome.
 
+##Screenshot
+![Screen shot of Piyo](https://raw.github.com/gingerbeardman/Piyo/master/Piyo.png)
+
 ##Installation
 - [Download the zip](https://github.com/gingerbeardman/Piyo/raw/master/Piyo.app.zip)
 - Unzip it, if required

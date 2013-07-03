@@ -37,6 +37,9 @@ The following features are supported:
 - No line breaks in tweets  
 - Mac-like shortcut keys  
 - Filter tweets containing keyword (optional)  
+- Replace Connect with Mentions (optional)  
+- Custom window title (optional)  
+- Check for update (work in progress)  
 
 ##Browser Extensions with remote configuration
 - No ads (AdBlock)  

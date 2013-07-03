@@ -27,6 +27,8 @@ The following features are supported:
 - Standard website displayed in large window  
 - Minimal interface in small window  
 
+Configuration: Stylish extension.
+
 ##Remote User Scripts
 - Expanded keyboard control  
 - External links open in new window  
@@ -41,21 +43,29 @@ The following features are supported:
 - Custom window title (optional)  
 - Check for update (work in progress)  
 
+Configuration: Tampermonkey extension.
+
 ##Browser Extensions with remote configuration
 - No ads (AdBlock)  
 - Streaming (Refresh for Twitter)  
 - Translate tweet (Instant Translate)  
 - Reports itself as unique client (ModHeader)  
 
+Configuration: browser settings.
+
 ##Browser Extensions with local configuration
 - Expand short links (PageExpand)  
 - Inline images (PageExpand)  
 - Highlight keywords (Word Highlight)  
 
+Configuration: browser settings.
+
 ##Browser itself
 - Font size control  
 - Window size control  
 - Translate user (optional)  
+
+Configuration: browser settings.
 
 #Shortcut keys
 **Cursor keys:** navigate timeline  

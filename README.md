@@ -88,10 +88,6 @@ Configuration: browser settings.
 ##Get Involved
 Pull requests are accepted, and all feature suggestions will be considered and implemented when possible.
 
-##Change Log
-**2013-07-02**  
-- Initial public release
-
 ##To Do
 See [GitHub Issues](https://github.com/gingerbeardman/Piyo/issues)
 

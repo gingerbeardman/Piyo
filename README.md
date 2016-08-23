@@ -17,7 +17,7 @@ It displays a modified version of the Twitter website using Google Chrome.
 [Google Chrome](http://www.google.com/chrome/) should be installed to `/Applications` for *Piyo* to work correctly.
 
 ##Background
-*Piyo* is heavilty customised to provide a feature-rich experience. It uses custom styles, scripts and extensions to do the dirty work.
+*Piyo* is heavily customised to provide a feature-rich experience. It uses custom styles, scripts and extensions to do the dirty work.
 
 Everything has been configured to a high degree over a long period of time, meaning it should not require you to do anything other than login to the Twitter website to get the most out of it.
 
